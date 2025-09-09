@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sagar Gatla
+# Hi, I'm Sagar Gatla
 
 🎓 Master’s in Computer Science (AI) | 📊 Data Analyst | 💡 Problem Solver  
 📍 Based in Dublin, Ireland | 🇮🇳 Originally from India
