@@ -64,7 +64,7 @@ I've worked with leading organizations like **ADNOC**, **Bahwan Cybertek**, and 
 - **Email:** [sagar221996@gmail.com](mailto:sagar221996@gmail.com)  
 - **Phone (IN):** +91-8655724340 | **(IE):** +353-892383630  
 - **LinkedIn:** [linkedin.com/in/sagar-gatla](https://www.linkedin.com/in/sagar-gatla)  
-- **GitHub:** [github.com/your-github-username](https://github.com/your-github-username)
+
 
 ---
 
